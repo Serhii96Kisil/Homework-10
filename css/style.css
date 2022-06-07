@@ -41,16 +41,15 @@ a {
   display: none;
   position: absolute;
   top: 100%;
-  left: 20px;
+
   width: 250px;
   padding: 0px;
   background-color: rgb(7, 25, 97);
 }
 
 .drop .drop {
-  /* display: none; */
   background-color: rgb(24, 60, 204);
-  top: 0;
+  top: -3px;
   left: 100%;
 }
 .drop .drop li {
